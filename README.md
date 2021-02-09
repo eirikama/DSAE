@@ -2,11 +2,12 @@
 
 
 
-<img border="0" align="Right" src="/img/architecture.png" alt="Your image title" width="350"/>
+<img border="0" align="Right" src="/img/architecture.png" alt="Your image title" width="400"/>
 Implementation of Descattering Autoencoder (DSAE) for Mie-scatter correction of FT-IR 
 spectra of cells and tissues. The DSAE takes measured scatter-distorted spectra as input and yields 
 scatter corrected spectra. The model is intended to be trained on a subset of measured spectra 
-which have been scatter-corrected by the state-of-the-art Mie-scatter correction method ME-EMSC.
+which have been scatter-corrected by the state-of-the-art Mie-scatter correction method Mie Extinction Extended
+Multiplicative Signal Correction (ME-EMSC) algorithm..
 
 
 Related paper
