@@ -3,8 +3,7 @@
 Implementation of Descattering Autoencoder (DSAE) for Mie-scatter correction of FT-IR spectra of cells and tissues.
 
 
-![architecture](/img/architecture.png)
-**Architecture:** The architecture of the DSAE modele
+<img src="/img/architecture.png" alt="Your image title" width="250"/>
 
 
 
