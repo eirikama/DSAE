@@ -3,12 +3,15 @@
 Implementation of Descattering Autoencoder (DSAE) for Mie-scatter correction of FT-IR spectra of cells and tissues.
 
 
+```
+<img src=”img/architecture.png” width=”100">
+```
 
 
 
 Related paper
 ---------------
-For further explanaition of the approach see: 
+For further explanation of the approach see: 
 
 > "Deep convolutional neural network recovers pure absorbance spectrum from highly scatter-distorted spectra of cells", 
 > Magnussen E.A., Solheim J.H, Blazhko U, Tafintseva V., Tøndel K, Liland K. H.,  Dzurendova S.,  Shapaval V.,  Sandt C.,  Borondics F.,  Kohler A.,
@@ -18,4 +21,4 @@ For further explanaition of the approach see:
 
 License
 ---------
-cc-by-4.0
+CC BY 4.0
