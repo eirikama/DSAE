@@ -4,7 +4,7 @@ Implementation of Descattering Autoencoder (DSAE) for Mie-scatter correction of 
 
 
 ```
-![architecture]](/img/architecture.png)
+![architecture](/img/architecture.png)
 **Architecture:** The architecture of the DSAE modele
 ```
 
