@@ -1,10 +1,11 @@
 # Descattering Autoencoder
 
-Implementation of Descattering Autoencoder (DSAE) for Mie-scatter correction of FT-IR spectra of cells and tissues.
 
 
-<img src="/img/architecture.png" alt="Your image title" width="250"/>
-
+<img border="0" align="Right" src="/img/architecture.png" alt="Your image title" width="400"/>
+Implementation of Descattering Autoencoder (DSAE) for Mie-scatter correction of FT-IR 
+spectra of cells and tissues. The DSAE takes measured scatter-distorted spectra as input and yields 
+scatter corrected spectra.
 
 
 Related paper
