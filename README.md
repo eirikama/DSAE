@@ -11,6 +11,8 @@ scatter corrected spectra. The model is intended to be trained on a subset of me
 which have been scatter-corrected by the state-of-the-art Mie-scatter correction method Mie Extinction Extended
 Multiplicative Signal Correction (ME-EMSC) algorithm.
 
+The pretrained model should be used on spectra at wavenumbers between 910 and 3623.
+
 
 Related paper
 ---------------
